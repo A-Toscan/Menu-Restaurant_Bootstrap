@@ -122,5 +122,27 @@
     align-items: center;
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
   }
+
+  
  
- 
+ /* ///////////////    cards section     ////////////// */
+
+
+
+.pizza-presentation {
+    text-align: center;
+    background-color: aliceblue;
+    margin: 20px;
+}
+
+
+.card {
+    height: 450px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.cards {
+    text-align: center;  
+}
