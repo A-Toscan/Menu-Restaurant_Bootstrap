@@ -4,41 +4,63 @@
 
 - [About](#about)
 - [Getting Started](#getting_started)
-- [Usage](#usage)
-- [Contributing](../CONTRIBUTING.md)
+- [License](#usage)
+- [Contact](#contact)
 
 ## About <a name = "about"></a>
 
-Write about 1-2 paragraphs describing the purpose of your project.
+Project to design a restaurant menu, through the use of the Bootstrap framework. Designed in Mobile First mode.
+
+See the <a href="https://a-toscan.github.io/Menu-Restaurant_Bootstrap/" target="_blank">Demo</a>
 
 ## Getting Started <a name = "getting_started"></a>
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
+Responsive design of three web pages: Home, Menu and Contact, through the use of Bootstrap. The same web page can be viewed in both large desktop and mobile versions.
+
+Examples of responsive visualisation follow.
 
 ### Prerequisites
 
-```
-Give examples
-```
+Use of Bootstrap for responsive purpose.
+
+Desktop version of main webpage
+
+<img src="/screenshot/homewebpage.JPG" alt="home page desktop version">
+
+Mobile version of main webpage
+
+<img src="/screenshot/homemobileversion.JPG" alt="home page mobile version">
+
+Menu desktop version of the webpage
+
+<img src="/screenshot/menu-webpageversion.JPG" alt="menu page desktop version">
+
+Menu tablet version of the webpage
+
+<img src="/screenshot/menu-tabletversion.JPG" alt="menu page tablet version">
+
+Menu mobile version of the webpage
+
+<img src="/screenshot/menu-mobileversion.JPG" alt="menu page mobile version">
 
 ### Installing
 
-A step by step series of examples that tell you how to get a development env running.
+Using the Bootstrap framework allowed the installation of several links, such as the card link in the menu area.
 
-Say what the step will be
+<img src="/screenshot/card.JPG" alt="bootstrap card">
 
-```
-Give the example
-```
+## Develpoment:
 
-And repeat
+languages: HTML, CSS, BOOTSTRAP, JavaScript
 
-```
-until finished
-```
+## License <a name = "usage"></a>
 
-End with an example of getting some data out of the system or using it for a little demo.
+Project for the GeeksHubs Full Stack Bootcamp 2023
 
-## Usage <a name = "usage"></a>
+Author: Antonio Toscano
 
-Add notes about how to use the system.
+## Contact:
+
+<a href = "mailto:eltoscan@gmail.com"><img src="https://img.shields.io/badge/Gmail-C6362C?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
+<a href="https://www.linkedin.com/in/antonio-toscano-hd/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
