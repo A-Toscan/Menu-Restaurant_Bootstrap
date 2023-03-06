@@ -49,7 +49,7 @@ Using the Bootstrap framework allowed the installation of several links, such as
 
 <img src="/screenshot/card.JPG" alt="bootstrap card">
 
-## Develpoment:
+## Built with:
 
 languages: HTML, CSS, BOOTSTRAP, JavaScript
 
