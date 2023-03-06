@@ -1,4 +1,4 @@
-# Project Title
+# Restaurant menu responsive with Bootstrap
 
 ## Table of Contents
 
