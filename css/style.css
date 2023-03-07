@@ -1,6 +1,6 @@
 @font-face {
-    font-family: "simple-thread"; 
-    src: url(font/simple-thread.otf);
+    font-family: simple-thread; 
+    src: url(/font/simple-thread.otf);
 }  
 
 * {
@@ -68,6 +68,11 @@
     text-shadow: 2px 2px 2px rgba(0, 0, 0, );
 }
 
+.text-warning {
+    font-family: simple-thread;
+
+}
+
 .title {
     font-size: 4rem;
     position: absolute;
@@ -76,6 +81,7 @@
     border: 3px solid #227E65;
     background-color: white;
     color: #227E65;
+    font-family: simple-thread;
     border-radius: 10px;
     display: flex;
     justify-content: center;
