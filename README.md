@@ -25,29 +25,29 @@ Use of Bootstrap for responsive purpose.
 
 Desktop version of main webpage
 
-<img src="/screenshot/homewebpage.JPG" alt="home page desktop version">
+<img src="screenshot/homewebpage.JPG" alt="home page desktop version">
 
 Mobile version of main webpage
 
-<img src="/screenshot/homemobileversion.JPG" alt="home page mobile version">
+<img src="screenshot/homemobileversion.JPG" alt="home page mobile version">
 
 Menu desktop version of the webpage
 
-<img src="/screenshot/menu-webpageversion.JPG" alt="menu page desktop version">
+<img src="screenshot/menu-webpageversion.JPG" alt="menu page desktop version">
 
 Menu tablet version of the webpage
 
-<img src="/screenshot/menu-tabletversion.JPG" alt="menu page tablet version">
+<img src="screenshot/menu-tabletversion.JPG" alt="menu page tablet version">
 
 Menu mobile version of the webpage
 
-<img src="/screenshot/menu-mobileversion.JPG" alt="menu page mobile version">
+<img src="screenshot/menu-mobileversion.JPG" alt="menu page mobile version">
 
 ### Installing
 
 Using the Bootstrap framework allowed the installation of several links, such as the card link in the menu area.
 
-<img src="/screenshot/card.JPG" alt="bootstrap card">
+<img src="screenshot/card.JPG" alt="bootstrap card">
 
 ## Built with:
 
