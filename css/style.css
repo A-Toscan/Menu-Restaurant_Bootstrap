@@ -8,25 +8,6 @@
     padding: 0;
 }
 
-@media (min-width: 768px) {
-    .masthead {
-        min-height: 100vh;
-    }
-    .title, .title-2 {
-        font-size: calc(1.525rem + 3.3vw);
-    }
-}
-
-@media (max-width: 576px) {
-    .masthead {
-        min-height: 100vh;
-    }
-    .title, .title-2 {
-        font-size: calc(1.525rem + 3.3vw);
-    }
-}
-
-
 
 /* ///////////////////////// navbar menu section  ///////////////////////////// */
 
@@ -225,6 +206,27 @@
     background-color: white;
     margin: auto;
     margin-top: 20px;
+}
+
+
+/*  /////////////// media query   ///////////////// */
+
+@media (min-width: 768px) {
+    .masthead {
+        min-height: 100vh;
+    }
+    .title, .title-2 {
+        font-size: calc(1.525rem + 3.3vw);
+    }
+}
+
+@media (max-width: 576px) {
+    .masthead {
+        min-height: 100vh;
+    }
+    .title, .title-2 {
+        font-size: calc(1.525rem + 3.3vw);
+    }
 }
 
 /* ////////////////   the end    /////////////////////// */
